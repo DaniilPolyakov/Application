@@ -8,4 +8,5 @@ It's not much, but it's an honest job....
 6. Run the main program file: main.py
 7. The database.db file contains a film library, tables of new movie rentals and users are blank.
 
-Enjoy the work of the program
+Enjoy the work of the programm
+
